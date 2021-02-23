@@ -1,0 +1,65 @@
+body {
+  text-align: center;
+  font-family: verdana;
+  background-image: url("imagens/madeira.jpg");
+  background-size: cover;
+  color: white;
+}
+
+h1 {
+	font-size: 70px;
+	padding-top: 300px;
+	text-shadow: 2px 2px 2px grey;
+	margin-bottom: 15px;
+}
+
+p {
+	font-size: 25px;
+}
+
+.botao {
+	text-decoration: none;
+	background-color: rgb(204,0,0);
+	color: white;
+	font-size: 20px;
+	padding: 10px 5px 10px 5px;
+	margin-left: 500px;
+	margin-right: 500px;
+	border-radius: 4px; 
+	text-align: center;
+}
+
+a {
+	color: white;
+	font-size: 35px;
+	display: inline;
+}
+
+a:hover {
+	color: blue;
+}
+
+
+.menu {
+	list-style: none;
+	padding: 50px;
+	margin-top: 20px;
+}
+
+.menu li {
+	display: inline; 
+}
+
+.botao a {
+	color: white;
+	font-size: 25px
+}
+
+.resp {
+	text-align: left;
+
+}
+
+.in {
+	margin-right: 30px;
+}
